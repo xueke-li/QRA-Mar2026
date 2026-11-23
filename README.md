@@ -11,7 +11,7 @@ Li, X., M. E. Mann, M. F. Wehner, S. Rahmstorf, S. Petri, S. Christiansen, and J
 
 ## File descriptions
 
-### Fig. 1. The March 2026 heat wave over southwestern North America associated with an unusual dual resonant wave-4 and wave-5 pattern. 
+### Fig. 1. The March 2026 heat wave over southwestern North America associated with an unusual dual resonant wave-4 and wave-5 pattern
 
 The following CSVs reproduce the daily time series and wave amplitude panels for March 2026:
 
