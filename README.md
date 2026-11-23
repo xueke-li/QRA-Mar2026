@@ -3,7 +3,7 @@ This repository contains the data and code necessary to reproduce the results pr
 
 Related Publications
 -------------------
-Li, X. and M. E. Mann, M. F. Wehner, and S. Christiansen (2026),  The March 2026 North American heat wave was magnified by an unusual early-season atmospheric resonance event, Proceedings of the National Academy of Sciences. (In press)
+Li, X. and M. E. Mann (2026),  The March 2026 North American heat wave was magnified by an unusual early-season atmospheric resonance event, Proceedings of the National Academy of Sciences. (In press)
 
 Li, X., M. E. Mann, M. F. Wehner, and S. Christiansen (2025), Increased frequency of planetary wave resonance events over the past half-century, Proceedings of the National Academy of Sciences, 122(25), e2504482122, <a href="https://www.pnas.org/doi/10.1073/pnas.2504482122">https://www.pnas.org/doi/10.1073/pnas.2504482122</a>.
 
